@@ -4,11 +4,13 @@
   "description": "primeiro projeto cypress",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress open"
+    "test": "npx cypress open",
+    "teste-terminal": "npx cypress run --reporter mochawesome"
   },
   "author": "Rafael Neves de Oliveira",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^10.11.0"
+    "cypress": "^10.11.0",
+    "mochawesome": "^7.1.3"
   }
 }
