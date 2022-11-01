@@ -1,0 +1,14 @@
+{
+  "name": "cypres-e2e",
+  "version": "1.0.0",
+  "description": "primeiro projeto cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Rafael Neves de Oliveira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
