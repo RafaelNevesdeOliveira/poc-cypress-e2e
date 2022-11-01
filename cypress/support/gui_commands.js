@@ -12,4 +12,5 @@ Cypress.Commands.add('registrarUsuario', (email, fullname, username, password)=>
     cy.get('input[formcontrolname="userName"').type(username)
     cy.get('input[formcontrolname="password"').type(password)
     cy.contains('button', 'Register').click();
+
 })

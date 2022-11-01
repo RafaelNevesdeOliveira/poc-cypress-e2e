@@ -49,7 +49,9 @@ describe('Login e registro de usuarios alura pic', ()=>{
         cy.contains('ap-vmessage', 'Must be lower case').should('be.visible');
     })
 
-    it.only('Registrar usuario', ()=>{
+    it('Registrar usuario', ()=>{
         cy.registrarUsuario('teste@teste.com.br', 'Rafaelm', 'rafaelm', '12345678')
+        cy.contains('a', 'Please, login!').click();
+   
     })
 } )
