@@ -1,0 +1,32 @@
+[
+    {
+        "email": "kurosaki.ichigo@soulsociety.com",
+        "fullName": "Kurosaki Ichigo",
+        "password": "12345678",
+        "userName": "kurosaki.ichigo"
+    },
+    {
+        "email": "genryusai.yamamoto@soulsociety.com",
+        "fullName": "Genryusai Yamamoto",
+        "password": "12345678",
+        "userName": "genryusai.yamamoto"
+    },
+    {
+        "email": "abarai.renji@soulsociety.com",
+        "fullName": "Abarai Renji",
+        "password": "12345678",
+        "userName": "abarai.renji"
+    },
+    {
+        "email": "kuchiki.byakuya@soulsociety.com",
+        "fullName": "Kurosaki Byakuya",
+        "password": "12345678",
+        "userName": "kurosaki.ichigo"
+    },
+    {
+        "email": "zaraki.kenpachi@soulsociety.com",
+        "fullName": "Zaraki Kenpachi",
+        "password": "12345678",
+        "userName": "zaraki.kenpachi"
+    }
+]
