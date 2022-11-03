@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open",
-    "teste-terminal": "npx cypress run --reporter mochawesome"
+    "test-terminal": "npx cypress run --reporter mochawesome"
   },
   "author": "Rafael Neves de Oliveira",
   "license": "MIT",
